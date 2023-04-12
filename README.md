@@ -1,10 +1,10 @@
-# JS GAMES
+# JS APPs
 
-## This Repo has some of my mini games which I built using **JavaScript**
+## This Repo has some of my mini applications which I built using **JavaScript**
 
 &nbsp;
 
-## The simon game [live](1_Simon_Game\index.html)
+## The simon game [live](img/\index.html)
 
 &nbsp;
 
@@ -39,3 +39,5 @@
 - In this game i've used a **_function(random)_** that create a random number and make the dice roll
 
 - Used animations and **_setTimeout()_** function to mke the app more alive
+
+## Clock [Live](4_clock/index.html)
